@@ -1,11 +1,11 @@
 # PagObg
-página de obrigado 
+@lanafonseka
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Obrigado, gostoso...</title>
+  <title>Obrigado, meu bem...</title>
   <style>
     body {
       background-color: #0f0f0f; /* preto fosco */
@@ -66,15 +66,16 @@ página de obrigado
 </head>
 <body>
 
-  <h1>🖤 Obrigado, gostoso... 💜</h1>
-  <p>Teu pagamento foi aprovado com sucesso.<br>Agora relaxa... que a putaria tá a um clique de chegar até ti.</p>
+  <h1>🖤 Prontinho... Tudo certinho por aqui. 💜</h1>
+  <p>Agora é só me chamar em um dos botões aqui embaixo...
+Tô te esperando viu?<br>Agora relaxa...</p>
 
   <div class="button-container">
-    <a href="https://t.me/+3Vw0aw6T6apkZThh" class="button telegram">📩 RECEBA PELO TELEGRAM</a>
+    <a href="[https://t.me/+3Vw0aw6T6apkZThh](https://t.me/+9Jv18_qaLHNlODFh)" class="button telegram">📩 RECEBA PELO TELEGRAM</a>
     <a href="https://wa.me/9180320017" class="button whatsapp">💬 RECEBA PELO WHATSAPP</a>
   </div>
 
-  <p class="obs">😈 Obs: Se não clicar, não goza. O conteúdo só vai ser enviado por um desses canais... então escolhe agora e vem se perder na minha safadeza.</p>
+  <p class="obs">😈 Obs: Se não clicar, recebe. O conteúdo só vai ser enviado por um desses canais...</p>
 
 </body>
 </html>
